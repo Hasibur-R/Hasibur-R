@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md.Hasibur Rahman</h1>
+<h1 align="center">Hi, I'm Md.Hasibur Rahman</h1>
 <h3 align="center">A student studying in Computer Science and Engineering at University of Asia Pacific. I am currently learning HTML5,CSS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibur-r&label=Profile%20views&color=0e75b6&style=flat" alt="hasibur-r" /> </p>
+
 
 - 🌱 I’m currently learning **HTML5,CSS**
 
@@ -18,5 +18,3 @@
 <a href="https://fb.com/h4sibur" target="blank"><img align="center" src="https://i.postimg.cc/JnVFzzvF/facebook-icon-transparent-background-4.png" alt="h4sibur" height="40" width="40" /></a>
 <a href="https://instagram.com/has1bur" target="blank"><img align="center" src="https://i.postimg.cc/Gh7vjSL3/580b57fcd9996e24bc43c521.png" alt="has1bur" height="40" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibur-r&show_icons=true&locale=en&layout=compact" alt="hasibur-r" /></p>

@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Md.Hasibur Rahman</h1>
-<h3 align="center">A student studying in Computer Science and Engineering at University of Asia Pacific. I am currently learning HTML5,CSS</h3>
+<h3 align="center">A student studying in Computer Science and Engineering at University of Asia Pacific. I am currently learning Puthon,Django</h3>
 
 
+<h4 align="center">
 
-- 🌱 I’m currently learning **HTML5,CSS**
+🌱 I’m currently learning **Python,Django**
 
-- 📫 How to reach me **connect.hasibur@gmail.com**
+📫 How to reach me?<br>
+ Email: **connect.hasibur@gmail.com**
 
-
+  </h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -21,13 +23,14 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/h4s1bur" target="_blank"> <img src="https://i.postimg.cc/YSMkrtJ3/twitter-black.png" alt="git" width="40" height="40"/> </a>
  <a href="https://fb.com/h4sibur" target="_blank"> <img src="https://i.postimg.cc/RhFZMvJ8/facebook-letter-logo-black.png" alt="git" width="40" height="40"/> </a>
   <a href="https://instagram.com/has1bur" target="_blank"> <img src="https://i.postimg.cc/vZWg2HrL/instagram-logo-black.png" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/in/hasibur-r/" target="_blank"> <img src="https://i.postimg.cc/CKh1vCLS/linkedin-logo-black.png" alt="git" width="40" height="40"/> </a>
+-->
 <!--   
 <a href="https://twitter.com/h4s1bur" target="blank"><img align="center" src="https://i.postimg.cc/rpWWMVSz/580b57fcd9996e24bc43c53e.png" alt="h4s1bur" height="40" width="40" /></a>
 <a href="https://fb.com/h4sibur" target="blank"><img align="center" src="https://i.postimg.cc/JnVFzzvF/facebook-icon-transparent-background-4.png" alt="h4sibur" height="40" width="40" /></a>

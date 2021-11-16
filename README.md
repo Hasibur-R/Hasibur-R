@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Md.Hasibur Rahman</h1>
-<h3 align="center">A student studying in Computer Science and Engineering at University of Asia Pacific. I am currently learning Puthon,Django</h3>
+<h3 >A student studying in Computer Science and Engineering at University of Asia Pacific. I am currently learning Puthon,Django</h3>
 
 
-<h4 align="center">
+<h4>
 
 🌱 I’m currently learning **Python,Django**
 

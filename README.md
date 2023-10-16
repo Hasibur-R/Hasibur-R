@@ -45,7 +45,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md. Hasibur Rahman</h1>
-<h3 align="center">Passionate about delivering high-quality software through meticulous testing and automation. Eager to contribute to innovative projects and collaborate with like-minded professionals. Open to new career opportunities in the field of Quality Assurance. Let's connect and make quality a priority in the digital world!</h3>
+<h3>Passionate about delivering high-quality software through meticulous testing and automation. Eager to contribute to innovative projects and collaborate with like-minded professionals. Open to new career opportunities in the field of Quality Assurance. Let's connect and make quality a priority in the digital world!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibur-r&label=Profile%20views&color=0e75b6&style=flat" alt="hasibur-r" /> </p>
 
